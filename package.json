@@ -1,0 +1,29 @@
+{
+  "name": "tune-matching-logic",
+  "version": "1.0.0",
+  "description": "Module for determining the key DJ mixing criteria of a song",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarfinn/Tune-matching-logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarfinn/Tune-matching-logic/issues"
+  },
+  "homepage": "https://github.com/edgarfinn/Tune-matching-logic#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0",
+    "jest": "^22.4.3"
+  }
+}
