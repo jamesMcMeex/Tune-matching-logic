@@ -20,7 +20,7 @@ Most tracks can be sped up or down by up to 6 or 7 bpm before the key has been s
 
 - Of a complimentary key (Bbm, Fm, Ebm, C#, or potentially even G#) at tempos between 132bpm and 144bpm
 
-- Down 1 semitone from any of the complimentary keys, at tempos between 132bpm and 126bpm (pitched down).
+- Down 1 semitone from any of the complimentary keys, at tempos between 132bpm and 126bpm (pitched up).
 
 - Up 1 semitone from any of the complimentary keys, at tempos between 144bpm and 150 bpm (pitched down).
 
