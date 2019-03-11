@@ -18,7 +18,7 @@ Hyph Mngo by Joy Orbison is in the key of Bbm, and tempo of 138bpm.
 
 Most tracks can be sped up or down by up to 6 or 7 bpm before the key has been shifted by 1 semitone (a key up when sped up, or down when slowed down). So Hyph Mngo - in theory - could be matched with any tracks that are:
 
-- Of a complimentary key (Bbm, Fm, Eb, C#, or potentially even G#) at tempos between 132bpm and 144bpm
+- Of a complimentary key (Bbm, Fm, Ebm, C#, or potentially even G#) at tempos between 132bpm and 144bpm
 
 - Down 1 semitone from any of the complimentary keys, at tempos between 132bpm and 126bpm (pitched down).
 
